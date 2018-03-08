@@ -1,0 +1,1215 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass moderncv
+\begin_preamble
+%\moderncvtheme[blue, roman]{casual}
+\moderncvtheme{casual}
+% possible themes are "classic" and "casual"
+% optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+
+% required
+\firstname{Juan Carlos}
+% required
+\familyname{Rodríguez}
+
+% optional, remove the line if not wanted
+\title{Backend Developer}
+
+% optional
+% \address{street and number}{postcode city}
+% '\\' adds a line break
+%\address{Calle 50a No. 84 - 122}{Medellín - Antioquia}
+
+% optional
+%\phone{4 21 87 25}
+% optional
+\mobile{(+57) 313 523 9520}
+% optional
+%\fax{+43(0)999 7777}
+% optional
+\email{jcrodriguezu@gmail.com}
+% optional
+%\homepage{www.linkedin.com/in/juan-carlos-rodriguez-20123236}
+\extrainfo{\href{https://www.linkedin.com/in/juan-carlos-rodriguez-20123236}{Linkedin}} 
+
+% optional
+% \photo[height]{name}
+% 'height' is the height the picture is resized to
+% 'name' is the name of the picture file
+%\photo[64pt]{/home/juanca/yo.jpg}
+
+% optional
+%\quote{"La educación ayuda a la persona a aprender a ser lo que es capaz de ser."}
+
+\AtBeginDocument{\maketitle}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+\lang spanish
+Note:
+\series default
+ 
+\lang english
+The
+\lang spanish
+ personal data like your name, image, address, etc.
+ are set in the document preamble.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\lang spanish
+The moderncv class offers lots of customization possibilities; some are
+ explained in the preamble of this document; for more information look at
+ the documentation of the LaTeX-package 
+\series bold
+moderncv
+\series default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+emptysection{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Software engineer with extensive experience in development with Python,
+ Java, Javascript and Marklogic with Scrum and TDD methodologies; strong
+ knowledge in fields related to computer vision and pattern recognition
+ using Matlab and Python.
+ I am a team player always ready to give my best.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+closesection{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout --Separator--
+
+\end_layout
+
+\begin_layout Section
+Skills
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Operating systems
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+GNU Linux and Ms Windows
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Programing languages
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Python
+\shape smallcaps
+, Java
+\shape default
+, Javascript, XQuery
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Scientific computing
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Matlab, LabView
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Web Development 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Flask, Django, Struts2, JQuery, AngularJs
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Other frameworks
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+SqlAlchemy, Celery, Hibernate
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Data bases
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Postgresql, memcached, Marklogic (NoSql database), Oracle
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Reports
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Birt, Tableau, ReportLab Toolkit
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Methodologies
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+OO Analysis & Design, Pattern oriented development, Test driven development
+ and Scrum
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Section
+Work History
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Nov 2016-- Current
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+LendingFront
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+US Company
+\end_layout
+
+\end_inset
+
+Backend developer, Software developer with Python, Flask and Postgresql
+ technologies.
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "www.lendingfront.com"
+target "LendingFront"
+
+\end_inset
+
+ is a Fintech company oriented to loans for small business, I've helped
+ this company in: Improvements in performance of the platform, implementation
+ of amortization algorithms for loans, develop of new features in front
+ and back end and bug fixing..
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+April 2015-- August 2016
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+PanTrek
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+US Company
+\end_layout
+
+\end_inset
+
+Co Founder, CTO, Software developer with Python, Django, Celery, Postgresql
+ and AngularJs technologies.
+ PanTrek was founded with the idea of helping the travelers to purchase
+ bus tickets across Latin America.
+ As a co founder I built the platform from scratch, make technical decisions,
+ lead a team of 2 developers and perform technical hiring.
+ I was also involved in business decisions as well as presentations to potential
+ customers.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+February 2013-- April 2015
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Yuxi Pacific Latam
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+US Company
+\end_layout
+
+\end_inset
+
+Team leader, Sr software developer with Java, Javascript and Marklogic technolog
+ies.
+ Projects: Development of the CMS for the 
+\noun on
+Optical Society of America (OSA)
+\noun default
+ with Marklogic and XML documents; Develop of adapters for scientific documents
+ searching using Java, HTTP and XML parsers and query standardization using
+ tree data structure; Maintenance of the application for the company 
+\noun on
+Apex Supply Chain Solutions
+\noun default
+ using Java EE, Javascript, Struts 2 and Oracle database.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+March 2012-- December 2012
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Facultad de minas
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Universidad Nacional de Colombia
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Medellín
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Colombia
+\end_layout
+
+\end_inset
+
+TYT Research group, Research & develop of the management system for protection
+ equipment in power transmission lines, SAGES project.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+September 2011-- February 2012
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Insitu Mobile Software
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Medellín
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Colombia
+\end_layout
+
+\end_inset
+
+Web developer using Java, Javascript and JSF; mobile software developer
+ using Java ME for Blackberry and Nokia platforms.
+ 
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+July 2010-- August 2011
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Facultad de Minas
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Universidad Nacional de Colombia
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Medellín
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Colombia
+\end_layout
+
+\end_inset
+
+Half time researcher.
+ Development of an artificial visual system prototype for artificial teeth
+ inspection using Labview, Matlab and MySQL.
+\end_layout
+
+\begin_layout Section
+Education
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2003--2010
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Bachelor's degree in Systems Engineering
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Universidad del Magdalena
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Santa Marta
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+Colombia
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Section
+Languages
+\end_layout
+
+\begin_layout ItemWithComment
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Spanish
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Native
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout ItemWithComment
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+English
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Intermediate B2
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Publications
+\end_layout
+
+\begin_layout Subsection
+Anisotropic filtering assessment applied on superficial defects enhancement
+ under non homogeneous light conditions
+\end_layout
+
+\begin_layout Standard
+December 2011.
+ Revista: Avances en Sistemas e Informática, Volumen 8, número 3.
+ Facultad de Minas, Universidad Nacional de Colombia - Sede Medellín.
+\end_layout
+
+\begin_layout Subsection
+Interpolation Centers’ Selection Using Hierarchical Curvature-based Clustering
+ 
+\end_layout
+
+\begin_layout Standard
+December 2010.
+ Revista: Revista Ingenierías Universidad de Medellín, Volumen 9, número
+ 17.
+ Universidad de Medellín.
+\end_layout
+
+\begin_layout Subsection
+A glance to the biometric
+\end_layout
+
+\begin_layout Standard
+September 2009.
+ Revista: Avances en Informática, Vol.
+ 6 No 2.
+ Facultad de Minas, Universidad Nacional de Colombia - Sede Medellín.
+\end_layout
+
+\begin_layout Section
+Other courses and certifications
+\end_layout
+
+\begin_layout ListItem
+PMI Fundamentals, Yuxi Pacific - Global Knowledge, 2014.
+\end_layout
+
+\begin_layout ListItem
+Oracle Java certified - 
+\emph on
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Credential verification link "
+target "https://education.oracle.com/pls/eval-eddap-dcd/ocp_interface.certification_authorization?arg_key=aBztq69299koNl2338xzGa&p_org_id=1001&p_lang=US"
+
+\end_inset
+
+
+\emph default
+ (code: jo69371Wy71b).
+\end_layout
+
+\begin_layout ListItem
+Software project Administration, SENA 2009.
+\end_layout
+
+\begin_layout ListItem
+Yellow Belt – Six Sigma, Carbones del Cerrejón Limited.
+ La mina, Guajira, 2009.
+\end_layout
+
+\begin_layout Section
+Affiliations and Volunteering
+\end_layout
+
+\begin_layout ListItem
+PyCon Colombia 2017, volunteer: 
+\begin_inset CommandInset href
+LatexCommand href
+name "http://www.pycon.co/"
+target "http://www.pycon.co/"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout ListItem
+Medellin Python meetup, co-organizer: 
+\begin_inset CommandInset href
+LatexCommand href
+name "http://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/"
+target "http://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout ListItem
+Django Girls Medellin, Couch and volunteer: 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://argentinaenpython.com/django-girls/2017/06/medellin/"
+target "https://argentinaenpython.com/django-girls/2017/06/medellin/"
+
+\end_inset
+
+.
+\end_layout
+
+\end_body
+\end_document
