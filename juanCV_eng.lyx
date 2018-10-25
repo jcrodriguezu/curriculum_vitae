@@ -175,9 +175,8 @@ emptysection{}
 
 \emph on
 Software engineer with extensive experience in development with Python,
- Java, Javascript and Marklogic with Scrum and TDD methodologies; strong
- knowledge in fields related to computer vision and pattern recognition
- using Matlab and Python.
+ Java, Javascript, and PostgreSql with Scrum and TDD methodologies who has
+ worked with large companies as well as with startups.
  I am a team player always ready to give my best.
 \end_layout
 
@@ -275,9 +274,9 @@ status open
 \begin_layout Plain Layout
 Python
 \shape smallcaps
-, Java
+, Go, Java
 \shape default
-, Javascript, XQuery
+, Javascript
 \end_layout
 
 \end_inset
@@ -313,29 +312,6 @@ status open
 \end_inset
 
  
-\end_layout
-
-\begin_layout Entry
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Scientific computing
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 2
-status open
-
-\begin_layout Plain Layout
-Matlab, LabView
-\end_layout
-
-\end_inset
-
-
 \begin_inset Argument 3
 status open
 
@@ -383,7 +359,7 @@ Web Development
 status open
 
 \begin_layout Plain Layout
-Flask, Django, Struts2, JQuery, AngularJs
+Flask, Django, JQuery, AngularJs
 \end_layout
 
 \end_inset
@@ -489,7 +465,7 @@ Data bases
 status open
 
 \begin_layout Plain Layout
-Postgresql, memcached, Marklogic (NoSql database), Oracle
+Postgresql, RethinkDb, Memcached, Oracle
 \end_layout
 
 \end_inset
@@ -643,7 +619,73 @@ Work History
 status open
 
 \begin_layout Plain Layout
-Nov 2016-- Current
+April 2018-- Current
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Arrivedo
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+US/Peu Company
+\end_layout
+
+\end_inset
+
+Team Leader, Software developer with Python, Flask, Go and Angularjs with
+ RethinkDb technologies.
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "www.arrivedo.com"
+target "Arrivedo"
+
+\end_inset
+
+ is a Content curator company oriented to hotels and travelers, I've helped
+ this company with: Improvements in workflow, implementation of best practices,
+ develop of new features in front and back end, bug fixing and a little
+ bit of DevOps in AWS.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Nov 2016-- March 2018
 \end_layout
 
 \end_inset
