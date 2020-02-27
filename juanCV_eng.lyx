@@ -365,7 +365,7 @@ Web Development
 status open
 
 \begin_layout Plain Layout
-Flask, Django, JQuery, AngularJs
+Flask, Django, AngularJs
 \end_layout
 
 \end_inset
@@ -471,7 +471,7 @@ Other frameworks
 status open
 
 \begin_layout Plain Layout
-SqlAlchemy, Celery, Hibernate
+SqlAlchemy, Celery
 \end_layout
 
 \end_inset
@@ -524,7 +524,7 @@ Data bases
 status open
 
 \begin_layout Plain Layout
-Postgresql, AWS Redshift, Redis, Memcached
+Postgresql, AWS Redshift, Redis
 \end_layout
 
 \end_inset
@@ -785,7 +785,7 @@ status open
 status open
 
 \begin_layout Plain Layout
-US/Peu Company
+US/Peru Company
 \end_layout
 
 \end_inset
@@ -851,7 +851,7 @@ status open
 status open
 
 \begin_layout Plain Layout
-US Company
+US/Colombia Company
 \end_layout
 
 \end_inset
@@ -917,7 +917,7 @@ status open
 status open
 
 \begin_layout Plain Layout
-US Company
+US/Colombia Company
 \end_layout
 
 \end_inset
@@ -977,7 +977,7 @@ status open
 status open
 
 \begin_layout Plain Layout
-US Company
+Colombia Company
 \end_layout
 
 \end_inset
@@ -1311,10 +1311,6 @@ Other courses and certifications
 \end_layout
 
 \begin_layout ListItem
-PMI Fundamentals, Yuxi Pacific - Global Knowledge, 2014.
-\end_layout
-
-\begin_layout ListItem
 Oracle Java certified - 
 \emph on
 
@@ -1330,53 +1326,41 @@ target "https://education.oracle.com/pls/eval-eddap-dcd/ocp_interface.certificat
  (code: jo69371Wy71b).
 \end_layout
 
-\begin_layout ListItem
-Software project Administration, SENA 2009.
-\end_layout
-
-\begin_layout ListItem
-Yellow Belt – Six Sigma, Carbones del Cerrejón Limited.
- La mina, Guajira, 2009.
-\end_layout
-
 \begin_layout Section
 Affiliations and Volunteering
 \end_layout
 
 \begin_layout ListItem
-PyCon Colombia 2017, volunteer: 
 \begin_inset CommandInset href
 LatexCommand href
-name "http://www.pycon.co/"
-target "http://www.pycon.co/"
+name "PyCon Colombia 2017"
+target "https://2017.pycon.co/"
 
 \end_inset
 
-.
+, volunteer.
 \end_layout
 
 \begin_layout ListItem
-Medellin Python meetup, co-organizer: 
 \begin_inset CommandInset href
 LatexCommand href
-name "http://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/"
+name "Medellin Python meetup"
 target "http://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/"
 
 \end_inset
 
-.
+, co-organizer.
 \end_layout
 
 \begin_layout ListItem
-Django Girls Medellin, Couch and volunteer: 
 \begin_inset CommandInset href
 LatexCommand href
-name "https://argentinaenpython.com/django-girls/2017/06/medellin/"
+name "Django Girls Medellin"
 target "https://argentinaenpython.com/django-girls/2017/06/medellin/"
 
 \end_inset
 
-.
+, Couch and volunteer.
 \end_layout
 
 \end_body
