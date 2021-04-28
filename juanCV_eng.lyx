@@ -27,7 +27,7 @@
 % optional
 %\phone{4 21 87 25}
 % optional
-\mobile{(+57) 313 523 9520}
+%\mobile{(+57) 313 523 9520}
 % optional
 %\fax{+43(0)999 7777}
 % optional
@@ -114,89 +114,12 @@
 \begin_body
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-
-\series bold
-\lang spanish
-Note:
-\series default
- 
-\lang english
-The
-\lang spanish
- personal data like your name, image, address, etc.
- are set in the document preamble.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-
-\lang spanish
-The moderncv class offers lots of customization possibilities; some are
- explained in the preamble of this document; for more information look at
- the documentation of the \SpecialChar LaTeX
--package 
-\series bold
-moderncv
-\series default
-.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-emptysection{}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 
 \emph on
 Software engineer with extensive experience in development with Python,
  Java, Javascript, and PostgreSql with Scrum and TDD methodologies who has
  worked with large companies as well as with startups.
  I am a team player always ready to give my best.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-closesection{}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -208,59 +131,6 @@ closesection{}
 
 \begin_layout Section
 Skills
-\end_layout
-
-\begin_layout Entry
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Operating systems
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 2
-status open
-
-\begin_layout Plain Layout
-GNU Linux and Ms Windows
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 3
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 5
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
- 
 \end_layout
 
 \begin_layout Entry
@@ -280,9 +150,9 @@ status open
 \begin_layout Plain Layout
 Python
 \shape smallcaps
-, Java
+, 
 \shape default
-, Javascript
+Javascript, Go
 \end_layout
 
 \end_inset
@@ -365,7 +235,60 @@ Web Development
 status open
 
 \begin_layout Plain Layout
-Flask, Django, AngularJs
+Flask, Django, BeeGo
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Data bases
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Postgresql (AWS Redshift & Aurora), Redis
 \end_layout
 
 \end_inset
@@ -418,7 +341,7 @@ Data Engineering
 status open
 
 \begin_layout Plain Layout
-Apache Airflow, AWS Kinesis firehose, AWS Athena
+Apache Airflow, AWS Athena
 \end_layout
 
 \end_inset
@@ -514,7 +437,7 @@ status open
 status open
 
 \begin_layout Plain Layout
-Data bases
+Reports
 \end_layout
 
 \end_inset
@@ -524,7 +447,7 @@ Data bases
 status open
 
 \begin_layout Plain Layout
-Postgresql, AWS Redshift, Redis
+Birt, ReportLab Toolkit
 \end_layout
 
 \end_inset
@@ -567,7 +490,7 @@ status open
 status open
 
 \begin_layout Plain Layout
-Reports
+CI/CD
 \end_layout
 
 \end_inset
@@ -577,7 +500,7 @@ Reports
 status open
 
 \begin_layout Plain Layout
-Birt, Tableau, ReportLab Toolkit
+GitHub Actions, Docker, Docker-Compose
 \end_layout
 
 \end_inset
@@ -670,6 +593,56 @@ status open
 \end_layout
 
 \begin_layout Section
+Languages
+\end_layout
+
+\begin_layout ItemWithComment
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Spanish
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Native
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout ItemWithComment
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+English
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Intermediate B2
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Work History
 \end_layout
 
@@ -678,7 +651,62 @@ Work History
 status open
 
 \begin_layout Plain Layout
-December 2018– January 2020
+March 2020 – Current
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Team International
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+US/Colombia Company
+\end_layout
+
+\end_inset
+
+Software developer with Python and AWS Aurora PosgreSql.
+ Developing new features, build analisys tools and support for a IoT platform
+ with the biggest deployment of the LoRaWan protocol.
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+December 2018 – January 2020
 \end_layout
 
 \end_inset
@@ -745,7 +773,7 @@ target "mightysignal.com"
 status open
 
 \begin_layout Plain Layout
-April 2018– November 2018
+April 2018 – November 2018
 \end_layout
 
 \end_inset
@@ -811,7 +839,7 @@ target "Arrivedo"
 status open
 
 \begin_layout Plain Layout
-Nov 2016– March 2018
+Nov 2016 – March 2018
 \end_layout
 
 \end_inset
@@ -877,7 +905,7 @@ target "LendingFront"
 status open
 
 \begin_layout Plain Layout
-April 2015– August 2016
+April 2015 – August 2016
 \end_layout
 
 \end_inset
@@ -937,7 +965,7 @@ Co Founder, CTO, Software developer with Python, Django, Celery, Postgresql
 status open
 
 \begin_layout Plain Layout
-February 2013– April 2015
+February 2013 – April 2015
 \end_layout
 
 \end_inset
@@ -997,172 +1025,8 @@ Apex Supply Chain Solutions
  using Java EE, Javascript, Struts 2 and Oracle database.
 \end_layout
 
-\begin_layout Entry
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-March 2012– December 2012
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 2
-status open
-
-\begin_layout Plain Layout
-Facultad de minas
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 3
-status open
-
-\begin_layout Plain Layout
-Universidad Nacional de Colombia
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-Medellín
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 5
-status open
-
-\begin_layout Plain Layout
-Colombia
-\end_layout
-
-\end_inset
-
-TYT Research group, Research & develop of the management system for protection
- equipment in power transmission lines, SAGES project.
-\end_layout
-
-\begin_layout Entry
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-September 2011– February 2012
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 2
-status open
-
-\begin_layout Plain Layout
-Insitu Mobile Software
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 3
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-Medellín
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 5
-status open
-
-\begin_layout Plain Layout
-Colombia
-\end_layout
-
-\end_inset
-
-Web developer using Java, Javascript and JSF; mobile software developer
- using Java ME for Blackberry and Nokia platforms.
- 
-\end_layout
-
-\begin_layout Entry
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-July 2010– August 2011
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 2
-status open
-
-\begin_layout Plain Layout
-Facultad de Minas
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 3
-status open
-
-\begin_layout Plain Layout
-Universidad Nacional de Colombia
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 4
-status open
-
-\begin_layout Plain Layout
-Medellín
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 5
-status open
-
-\begin_layout Plain Layout
-Colombia
-\end_layout
-
-\end_inset
-
-Half time researcher.
- Development of an artificial visual system prototype for artificial teeth
- inspection using Labview, Matlab and MySQL.
-\end_layout
-
 \begin_layout Section
-Education
+Education, Affiliations and Volunteering
 \end_layout
 
 \begin_layout Entry
@@ -1218,118 +1082,6 @@ Colombia
  
 \end_layout
 
-\begin_layout Section
-Languages
-\end_layout
-
-\begin_layout ItemWithComment
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Spanish
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 2
-status open
-
-\begin_layout Plain Layout
-Native
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout ItemWithComment
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-English
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 2
-status open
-
-\begin_layout Plain Layout
-Intermediate B2
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Publications
-\end_layout
-
-\begin_layout Subsection
-Anisotropic filtering assessment applied on superficial defects enhancement
- under non homogeneous light conditions
-\end_layout
-
-\begin_layout Standard
-December 2011.
- Revista: Avances en Sistemas e Informática, Volumen 8, número 3.
- Facultad de Minas, Universidad Nacional de Colombia - Sede Medellín.
-\end_layout
-
-\begin_layout Subsection
-Interpolation Centers’ Selection Using Hierarchical Curvature-based Clustering
- 
-\end_layout
-
-\begin_layout Standard
-December 2010.
- Revista: Revista Ingenierías Universidad de Medellín, Volumen 9, número
- 17.
- Universidad de Medellín.
-\end_layout
-
-\begin_layout Subsection
-A glance to the biometric
-\end_layout
-
-\begin_layout Standard
-September 2009.
- Revista: Avances en Informática, Vol.
- 6 No 2.
- Facultad de Minas, Universidad Nacional de Colombia - Sede Medellín.
-\end_layout
-
-\begin_layout Section
-Other courses and certifications
-\end_layout
-
-\begin_layout ListItem
-Oracle Java certified - 
-\emph on
-
-\begin_inset CommandInset href
-LatexCommand href
-name "Credential verification link "
-target "https://education.oracle.com/pls/eval-eddap-dcd/ocp_interface.certification_authorization?arg_key=aBztq69299koNl2338xzGa&p_org_id=1001&p_lang=US"
-
-\end_inset
-
-
-\emph default
- (code: jo69371Wy71b).
-\end_layout
-
-\begin_layout Section
-Affiliations and Volunteering
-\end_layout
-
 \begin_layout ListItem
 \begin_inset CommandInset href
 LatexCommand href
@@ -1339,17 +1091,6 @@ target "https://2017.pycon.co/"
 \end_inset
 
 , volunteer.
-\end_layout
-
-\begin_layout ListItem
-\begin_inset CommandInset href
-LatexCommand href
-name "Medellin Python meetup"
-target "http://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/"
-
-\end_inset
-
-, co-organizer.
 \end_layout
 
 \begin_layout ListItem
