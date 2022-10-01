@@ -1,13 +1,13 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
 \origin unavailable
 \textclass moderncv
 \begin_preamble
-%\moderncvtheme[blue, roman]{casual}
-\moderncvtheme{casual}
+\moderncvtheme{classic}
+%\moderncvtheme{casual}
 % possible themes are "classic" and "casual"
 % optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
 
@@ -27,14 +27,14 @@
 % optional
 %\phone{4 21 87 25}
 % optional
-%\mobile{(+57) 313 523 9520}
+\mobile{(+57) 313 523 9520}
 % optional
 %\fax{+43(0)999 7777}
 % optional
 \email{jcrodriguezu@gmail.com}
 % optional
 %\homepage{www.linkedin.com/in/juan-carlos-rodriguez-20123236}
-\extrainfo{\href{https://www.linkedin.com/in/juan-carlos-rodriguez-20123236}{Linkedin}} 
+\extrainfo{\href{https://www.linkedin.com/in/jcrodriguezu}{https://www.linkedin.com/in/jcrodriguezu}}
 
 % optional
 % \photo[height]{name}
@@ -63,6 +63,8 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -92,6 +94,7 @@
 \suppress_date false
 \justification true
 \use_refstyle 1
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -100,7 +103,10 @@
 \tocdepth 2
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
@@ -394,7 +400,7 @@ Other frameworks
 status open
 
 \begin_layout Plain Layout
-SqlAlchemy, Celery
+SqlAlchemy, Celery, Protobuf
 \end_layout
 
 \end_inset
@@ -490,6 +496,59 @@ status open
 status open
 
 \begin_layout Plain Layout
+Visualization
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+MatplotLib, Bokeh
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
 CI/CD
 \end_layout
 
@@ -500,7 +559,7 @@ CI/CD
 status open
 
 \begin_layout Plain Layout
-GitHub Actions, Docker, Docker-Compose
+GitHub Actions, Docker, Docker-Compose, AWS CodeArtifact
 \end_layout
 
 \end_inset
@@ -696,7 +755,26 @@ US/Colombia Company
 
 \end_inset
 
-Software developer with Python and AWS Aurora PosgreSql.
+Technical leader/Sr Software developer in two projects:
+\end_layout
+
+\begin_layout ListItem
+
+\series bold
+Zilliant
+\series default
+: Tech leader, Scrum Master.
+ Consolidate the development and QA team for a new product using pure Python
+ and Aurora(Postgresql), creation of the CI/CD pipeline with AWS S3 and
+ AWS CodeArtifact.
+\end_layout
+
+\begin_layout ListItem
+
+\series bold
+Cox2m
+\series default
+: Software developer with Python and AWS Aurora PosgreSql.
  Developing new features, build analisys tools and support for a IoT platform
  with the biggest deployment of the LoRaWan protocol.
 \end_layout
@@ -758,6 +836,7 @@ Software developer with Python, Ruby , React and Apache Airflow with AWS
 LatexCommand href
 name "mightysignal.com"
 target "mightysignal.com"
+literal "false"
 
 \end_inset
 
@@ -825,6 +904,7 @@ Team Leader, Software developer with Python, Flask, Go and Angularjs with
 LatexCommand href
 name "www.arrivedo.com"
 target "Arrivedo"
+literal "false"
 
 \end_inset
 
@@ -891,6 +971,7 @@ Backend developer, Software developer with Python, Flask and Postgresql
 LatexCommand href
 name "www.lendingfront.com"
 target "LendingFront"
+literal "false"
 
 \end_inset
 
@@ -1082,26 +1163,142 @@ Colombia
  
 \end_layout
 
-\begin_layout ListItem
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2017
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset href
 LatexCommand href
 name "PyCon Colombia 2017"
 target "https://2017.pycon.co/"
+literal "false"
 
 \end_inset
 
-, volunteer.
+
 \end_layout
 
-\begin_layout ListItem
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+volunteer
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Colombia
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "https://2017.pycon.co/"
+target "https://2017.pycon.co/"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Entry
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+2017
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset href
 LatexCommand href
 name "Django Girls Medellin"
 target "https://argentinaenpython.com/django-girls/2017/06/medellin/"
+literal "false"
 
 \end_inset
 
-, Couch and volunteer.
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+Couch, volunteer
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Colombia
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 5
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+name "https://argentinaenpython.com/django-girls/2017/06/medellin/"
+target "https://argentinaenpython.com/django-girls/2017/06/medellin/"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_body
